@@ -1,2 +1,2 @@
-# microservices-config
+# microservices-config properties
 Cloud config Properties
